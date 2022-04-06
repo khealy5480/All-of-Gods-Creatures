@@ -1,7 +1,8 @@
 # All-of-Gods-Creatures
 All of God's Creatures sung by each class of animals.  Demonstration of inheritance and polymorphism.
 
-/*************************************************************************************************
+
+/*************************************************************************************************\
 /*            			 All of God's Creatures Song program                                         *
 /*************************************************************************************************
 
@@ -24,14 +25,14 @@ rules:
 	depending on the student's programming ability.  These classes must have the same name as the ones 
 	in the "CreaturesInput.txt" file:
 
-									 -----Creature------
-								   /	      |          \
-								 /            |            \
-							   /              |              \
-							Bottom         Middle            Top
-							 /|\             /|\             /|\
-						Low Singing     Middle Singing	  top Singing
-						  Creatures       Creatures		    Creatures
+							      -----Creature------
+						          /            |          \
+							/              |             \
+						       /               |               \
+						   Bottom           Middle             Top
+						    /|\              /|\                /|\
+						Low Singing     Middle Singing       top Singing
+						  Creatures       Creatures           Creatures
 
 5)	To demonstrate polymorphism, the Creatrue, Top, Middle, and Bottom classes also do some of the singing.
 	These classes must be made by the student.  Some of the Top, Middle, and Bottom singing creatures are 
