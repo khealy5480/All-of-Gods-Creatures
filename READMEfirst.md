@@ -1,10 +1,6 @@
-# All-of-Gods-Creatures
+# All-of-Gods-Creatures Song Program
 All of God's Creatures sung by each class of animals.  Demonstration of inheritance and polymorphism.
 
-
-/*************************************************************************************************\
-/*            			 All of God's Creatures Song program                                         *
-/*************************************************************************************************
 
 This program was designed to be a replit to teach inheritance, abstraction, polyMorphisim, encapsulation 
 and scanner input.  It also may teach searching and file IO. The teacher should state the following 
